@@ -1,0 +1,11 @@
+Status: FAILED
+Time Taken: 1
+Size: 0
+Timestamp: Sun Mar 13 23:12:50 IST 2022
+TestStep: sessionID transfer
+Error:com.eviware.soapui.impl.wsdl.teststeps.PropertyTransferException: Missing source property
+
+----------------- Messages ------------------------------
+Error performing transfer [sessionId] - Missing source property
+----------------------------------------------------
+sessionId transferred [[Missing source property]] from [null.null] to [Logout.null]
